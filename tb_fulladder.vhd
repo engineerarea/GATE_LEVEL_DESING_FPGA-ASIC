@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
 -- Company: 
--- Engineer: 
+-- Engineer: BILAL DOGRUCU
 -- 
 -- Create Date: 08/07/2020 04:33:43 PM
 -- Design Name: 
